@@ -1,10 +1,3 @@
-import sys
-import threading
-import time
-import unittest
-
-from bank_account import BankAccount
-
 
 class BankAccountTests(unittest.TestCase):
 
