@@ -47,4 +47,3 @@ class BankAccount(object):
     def close(self):
         self._state = 'closed'
         return self._balance
-© 2018 GitHub, Inc.
